@@ -20,8 +20,8 @@ class Bob{
         push();
         ellipseMode(RADIUS);
         strokeWeight(7);
-        stroke("green");
-        fill("lightblue");
+        stroke("pink");
+        fill("yellow");
         circle(pos.x, pos.y, this.radius);
         pop();
     }
